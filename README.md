@@ -36,8 +36,8 @@ Créer une application desktop permettant de gérer des activités de microfinan
   
 ## Modélisation
 
-![Diagramme de cas d'utilisation](https://github.com/Abnegazar/Soldify/blob/master/src/Diagramme%20de%20cas%20d'utilisation.pdf?raw=true)
-![Diagramme de cas de classe et dictionnaire des données](https://github.com/Abnegazar/Soldify/blob/master/src/mod%C3%A8le_relationnel.pdf?raw=true)
+#### ![Diagramme de cas d'utilisation](https://github.com/Abnegazar/Soldify/blob/master/src/Diagramme%20de%20cas%20d'utilisation.pdf?raw=true).
+#### ![Diagramme de cas de classe et dictionnaire des données](https://github.com/Abnegazar/Soldify/blob/master/src/mod%C3%A8le_relationnel.pdf?raw=true).
   
   
 ## Screenshots
