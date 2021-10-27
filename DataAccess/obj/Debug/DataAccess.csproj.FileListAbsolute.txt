@@ -1,0 +1,15 @@
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\bin\Debug\DataAccess.dll
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\bin\Debug\DataAccess.pdb
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\obj\Debug\DataAccess.dll
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\obj\Debug\DataAccess.pdb
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\bin\Debug\Microsoft.CSharp.dll
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\bin\Debug\System.Data.dll
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\bin\Debug\System.dll
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\bin\Debug\System.Net.Http.dll
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\bin\Debug\System.Xml.dll
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\bin\Debug\System.Xml.Linq.dll
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Workspace\OGI\Programs\CREDIFY\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache

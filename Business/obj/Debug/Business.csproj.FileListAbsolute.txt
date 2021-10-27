@@ -1,0 +1,2 @@
+D:\Workspace\OGI\Programs\CREDIFY\Business1\obj\Debug\Business.csprojAssemblyReference.cache
+D:\Workspace\OGI\Programs\CREDIFY\Business1\obj\Debug\Business.csproj.CoreCompileInputs.cache
